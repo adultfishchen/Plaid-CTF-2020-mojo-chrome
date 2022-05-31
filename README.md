@@ -6,4 +6,4 @@ Challenge Description：
 
 Our task is to RCE chromium browser, after applying .diff file.
 
-We are also provided generated mojo-js files to interact with the IPC.
+The generated mojo-js files are also provided for interacting with the IPC.
